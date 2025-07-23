@@ -1,4 +1,4 @@
-let numero = 7;
+let numero = 8;
 
 if (numero % 2 === 0) {
   console.log("par");
